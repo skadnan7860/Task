@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login">LogIn</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up_info">Dont Have An Account? Sing Up</string>
+    <string name="log_in_info">Already Have An Account? Log In</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="signup">Sign Up</string>
+    <string name="submit">Submit</string>
+    <string name="writ_your_feedback_here">Writ your feedback here ...</string>
+    <string name="your_feedback">Your Feedback :</string>
+    <string name="edit_feedback">Edit Feedback</string>
+</resources>
